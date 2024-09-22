@@ -1,6 +1,6 @@
 # 全目录
 
-[更多系统、论文，供君选择 ~~>](https://www.bitwise.net.cn)
+[更多系统、论文，供君选择 ~~>](https://www.yuque.com/wisebit/blog)
 # 101.DrugManagementSystem
 
 <p>群: 983063232(大佬群 2TB学习资料,讲解)(入群获取sql文件)</p>
